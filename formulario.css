@@ -1,0 +1,17 @@
+.fondocuadro{
+    background-color: gray;
+    width: 50%;
+}
+.fondocuadros{
+   
+    width: 50%;
+}
+.boton{
+    width: 70px;
+}
+.fondo{
+    background-color: rgb(202, 197, 197);
+}
+.espacio{
+    height: 5%;
+}
